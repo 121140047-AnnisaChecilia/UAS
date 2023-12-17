@@ -11,7 +11,7 @@ kemudian pada bagian 1.2  diperintahkan untuk membuat beberapa event untuk mengh
 Panduan:
 - Tambahkan minimal 3 event yang berbeda untuk menghandle form pada 1.1
 - Implementasikan JavaScript untuk validasi setiap input sebelum diproses oleh PHP. Buatin code nya bahasa indonesia Jelasin semua tahap nya buatin sampe semuanya terpenuhi
-disini saya telah memenuhi perintah diatas.
+disini saya telah memenuhi perintah diatas. pada index1
 
 kemudian pada 2.1 (20%) Implementasikan script PHP untuk mengelola data dari formulir pada Bagian 1 menggunakan variabel global seperti $_POST atau $_GET. Tampilkan hasil pengolahan data ke layar.
 Panduan:
@@ -21,7 +21,7 @@ Panduan:
 2.2 (10%) Buatlah sebuah objek PHP berbasis OOP yang memiliki minimal dua metode dan gunakan objek tersebut dalam skenario tertentu pada halaman web Anda. Panduan:
 - Objek yang dibuat harus terkait dengan konteks pengembangan web saat ini.
 saya telah mengikuti perintah diatas
-
+pada index1
 3.1 (5%) Buatlah sebuah tabel pada database MySQL
 Panduan:
 - Lampirkan langkah-langkah dalam membuat basisdata dengan syntax basisdata
@@ -32,6 +32,7 @@ Panduan:
 Panduan:
 - Gunakan query SQL yang sesuai dengan skenario yang diberikan.
   saya telah memenuhi perintah diatas
+  pada index1, lihat data, delete, update
 4.1 (10%) Buatlah skrip PHP yang menggunakan session untuk menyimpan dan mengelola state pengguna. Implementasikan logika yang memanfaatkan session.
 Panduan:
 - Gunakan session_start() untuk memulai session.
@@ -41,3 +42,4 @@ Panduan:
 Panduan:
 - Buat fungsi-fungsi untuk menetapkan, mendapatkan, dan menghapus cookie.
 - Gunakan browser storage untuk menyimpan informasi secara lokal.
+pada bagian login dan logout
