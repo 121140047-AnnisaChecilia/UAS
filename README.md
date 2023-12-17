@@ -31,6 +31,7 @@ Panduan:
 3.3 (10%) Lakukan manipulasi data pada tabel database dengan menggunakan query SQL. Misalnya, tambah data, ambil data, atau update data.
 Panduan:
 - Gunakan query SQL yang sesuai dengan skenario yang diberikan.
+  saya telah memenuhi perintah diatas
 4.1 (10%) Buatlah skrip PHP yang menggunakan session untuk menyimpan dan mengelola state pengguna. Implementasikan logika yang memanfaatkan session.
 Panduan:
 - Gunakan session_start() untuk memulai session.
