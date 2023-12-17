@@ -1,0 +1,119 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #faf4c0;
+}
+.header {
+    background-color: #d4a261;
+    text-align: left;
+    display: flex;
+}
+.side{
+    margin: 50px 20px;
+    color: #ffffff;
+    font-family: pacifico;
+    text-align: center;
+}
+.nav{
+    background-color: rgb(122, 59, 0);
+    color: white;
+}
+.nav ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+}
+.nav ul li a{
+    margin-left: 20px;
+    color: #ffffff;
+}
+main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 20px;
+}
+.sidebar {
+	flex-basis: 20%;
+	margin-right: 10px;
+    background-color:  #d4a261;
+    top : 0;
+    bottom : 0;
+}
+.sidebar h2 {
+	margin-bottom: 15px;
+    color: white;
+    text-align: center;
+    font-family: pacifico;
+}
+.sidebar ul a { 
+display: flex;
+    height: 100%;
+    width: 100%;
+    line-height: 70px;
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 5px solid rgb(167, 118, 44);
+    border-bottom: 5px solid rgb(167, 118, 44);
+}
+.sidebar li {
+	margin-bottom: 15px;
+
+}
+.content {
+	flex-basis: 70%;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    font-family: pacifico;
+}
+  form {
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #f0d199;
+    padding: 70px;
+    border-radius: 5px;
+  }
+  label {
+    display: flex;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+
+  input[type="text"],
+  input[type="nim"],
+  input[type="prodi"],
+  select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #3a2505;
+    border-radius: 30px;
+  }
+  input[type="jenisk"]
+  select {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 3px solid #3a2505;
+    border-radius: 30px;
+  }
+  button[type="submit"] {
+   
+    padding: 15px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  footer {
+    flex-basis: 100% ;
+    background-color:  #d4a261;
+    text-align: center;
+    padding: 40px;
+}
